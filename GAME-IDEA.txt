@@ -1,0 +1,13 @@
+GAME IDEA
+
+You are a spherical robot in a post apocalipse setting.
+
+Your battery is leaking.
+
+You roll around to return to the factory where you were made.
+
+Along the way you encounter other robots, but they have been programmed to go after you and stop you from your path.
+
+There are also a number of safehouses that emit enough static electricity to charge your battery again.
+Here you are safe from the other robots.
+
